@@ -13,6 +13,7 @@
 		05C0E8C81C4717AE0039DE7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C0E8C61C4717AE0039DE7F /* LaunchScreen.storyboard */; };
 		05C0E8D01C4720520039DE7F /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C0E8CF1C4720520039DE7F /* ProductViewController.swift */; };
 		05C0E8D21C4740860039DE7F /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C0E8D11C4740860039DE7F /* ContactViewController.swift */; };
+		05C0E8D41C474AD50039DE7F /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C0E8D31C474AD50039DE7F /* ProductsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		05C0E8C91C4717AE0039DE7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05C0E8CF1C4720520039DE7F /* ProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		05C0E8D11C4740860039DE7F /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		05C0E8D31C474AD50039DE7F /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				05C0E8BD1C4717AE0039DE7F /* AppDelegate.swift */,
 				05C0E8C11C4717AE0039DE7F /* Main.storyboard */,
+				05C0E8D31C474AD50039DE7F /* ProductsTableViewController.swift */,
 				05C0E8CF1C4720520039DE7F /* ProductViewController.swift */,
 				05C0E8D11C4740860039DE7F /* ContactViewController.swift */,
 				05C0E8C41C4717AE0039DE7F /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				05C0E8D01C4720520039DE7F /* ProductViewController.swift in Sources */,
+				05C0E8D41C474AD50039DE7F /* ProductsTableViewController.swift in Sources */,
 				05C0E8BE1C4717AE0039DE7F /* AppDelegate.swift in Sources */,
 				05C0E8D21C4740860039DE7F /* ContactViewController.swift in Sources */,
 			);
